@@ -1,2 +1,124 @@
 Assignment 1: My PC configurations
 
+
+System Model:                  HP Pavilion Laptop 15-eg2xxx
+OS Name:                       Microsoft Windows 11 Home Single Language
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Organization:       HP
+Product ID:                    00342-xxxx-xxxx-AAOEM
+Original Install Date:         14-12-2024, 04:35:35
+System Boot Time:              06-01-2025, 08:18:46
+System Manufacturer:           HP
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 154 Stepping 3 GenuineIntel ~1700 Mhz
+BIOS Version:                  AMI F.14, 08-11-2023
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  00004009
+Time Zone:                     (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Total Physical Memory:         16,052 MB
+Available Physical Memory:     2,822 MB
+Virtual Memory: Max Size:      25,278 MB
+Virtual Memory: Available:     1,587 MB
+Virtual Memory: In Use:        23,691 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\LAPTOP-6AOILFK1
+Hotfix(s):                     3 Hotfix(s) Installed.
+                               [01]: KB50xxxx4
+                               [02]: KBxxxx8667
+                               [03]: KB50xxxx5
+Network Card(s):               3 NIC(s) Installed.
+                               [01]: MediaTek MT7921 Wi-Fi
+                                     Connection Name: Wi-Fi
+                                     Status:          Media disconnected
+                               [02]: Microsoft Wi-Fi Direct Virtual Adapter
+                                     Connection Name: Local Area Connection* 2
+                                     DHCP Enabled:    No
+                               [03]: ASIX USB to Gigabit Ethernet Family Adapter
+                                     Connection Name: Ethernet
+                                     DHCP Enabled:    Yes
+                                   
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                                     APIC Virtualization
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+
+
+
+Driver information:
+
+1)Sound
+
+Name	Intel® Smart Sound Technology for Bluetooth® Audio
+Manufacturer	Intel(R) Corporation
+Status	OK
+Name	Realtek High Definition Audio
+Manufacturer	Realtek
+Status	OK
+Driver	C:\WINDOWS\SYSTEM32\DRIVERS\RTKVHD64.SYS (6.0.9703.1, 5.94 MB (6,228,824 bytes), 14-12-2024 12:21)
+Name	Intel® Smart Sound Technology for Digital Microphones
+Manufacturer	Intel(R) Corporation
+Status	OK
+
+2)Display
+Name	Intel(R) Iris(R) Xe Graphics
+PNP Device ID	PCI\VEN_8086&DEV_46A6&SUBSYS_89F6103C&REV_0C\3&11583659&2&10
+Adapter Type	Intel(R) Iris(R) Xe Graphics Family, Intel Corporation compatible
+Adapter Description	Intel(R) Iris(R) Xe Graphics
+Adapter RAM	2.00 GB (2,147,479,552 bytes)
+Installed Drivers	<>,C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_84a4d1c232ade587\igd10iumd64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_84a4d1c232ade587\igd10iumd64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_84a4d1c232ade587\igd12umd64.dll
+Driver Version	32.0.101.5542
+INF File	oem198.inf (iADLPD_w10_DS section)
+Color Planes	Not Available
+Color Table Entries	4294967296
+Resolution	1920 x 1080 x 60 hertz
+Bits/Pixel	32
+
+
+3)Storage Drives
+Drive	C:
+Description	Local Fixed Disk
+Compressed	No
+File System	NTFS
+Size	244.19 GB (262,200,619,008 bytes)
+Free Space	78.83 GB (84,645,433,344 bytes)
+Volume Name	Windows
+Volume Serial Number	90F54C94
+	
+Drive	D:
+Description	Local Fixed Disk
+Compressed	No
+File System	NTFS
+Size	231.08 GB (248,123,486,208 bytes)
+Free Space	176.28 GB (189,277,499,392 bytes)
+Volume Name	New Volume
+
+
+
+
+
+
+My main preference when buying a new laptop would be the pc configuration concerning the processor.I would personally love to buy a gaming pc with advanced processors and a dedicated graphic card.I would also look at the battery specification and the no of threads in the microprocessor and the processor speed.Apart from these, the weight and the ease of carrying is also a point of consideration before buying any laptop.
+Anything else like new features some innovative sensors is an additional perk but not a priority.I use my laptop to code,read and play games.So a good and powerful CPU is going to meet my requirements.
+
+
+
